@@ -1,0 +1,5 @@
+{
+  "version": "0.0.03",
+  "firmware": "https://kunyuehchen-boop.github.io/261019Tired/firmware.bin",
+  "description": "ESP32 OTA firmware update"
+}
